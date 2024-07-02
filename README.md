@@ -28,9 +28,9 @@ Sol Puppy ($PUP) is a memecoin inspired by the popularity of dog-themed cryptocu
 ## Community
 Follow us on social media to stay updated and join the Sol Puppy community:
 - [Twitter](https://twitter.com/solpuppytoken)
-- [Reddit](https://reddit.com/r/solpuppy)
-- [Telegram](https://t.me/solpuppy)
-- [Discord](https://discord.gg/solpuppy)
+- [Reddit](https://reddit.com/r/SolPuppyToken)
+- [Telegram](https://t.me/SolPuppyToken)
+- [Discord](https://discord.gg/8qKNz3gh)
 
 ## Get Involved
 Ready to join the cutest token on Solana? Get your PUP tokens today and be part of our growing community! [Buy Sol Puppy Tokens](https://raydium.io)
