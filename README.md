@@ -48,11 +48,11 @@ Simply open the file directly in your web browser to view the website locally.
 Contributing
 We welcome contributions from the community! To contribute:
 
-a) Fork the repository.
-b) Create a new branch: git checkout -b feature-branch-name
-c) Make your changes and commit them: git commit -m 'Add new feature'
-d) Push to the branch: git push origin feature-branch-name
-e) Create a pull request.
+1. Fork the repository.
+2. Create a new branch: git checkout -b feature-branch-name
+3. Make your changes and commit them: git commit -m 'Add new feature'
+4. Push to the branch: git push origin feature-branch-name
+5. Create a pull request.
 
 Please make sure your code adheres to our coding standards and includes relevant tests.
 
