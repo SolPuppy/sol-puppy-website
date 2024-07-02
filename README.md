@@ -27,7 +27,7 @@ Sol Puppy ($PUP) is a memecoin inspired by the popularity of dog-themed cryptocu
 
 ## Community
 Follow us on social media to stay updated and join the Sol Puppy community:
-- [Twitter](https://twitter.com/solpuppy)
+- [Twitter](https://twitter.com/solpuppytoken)
 - [Reddit](https://reddit.com/r/solpuppy)
 - [Telegram](https://t.me/solpuppy)
 - [Discord](https://discord.gg/solpuppy)
@@ -40,7 +40,7 @@ To set up the website locally, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/sol-puppy-website.git
+   git clone https://github.com/SolPuppy/sol-puppy-website.git
    cd sol-puppy-website
 
 2. Open the index.html file in your browser:
