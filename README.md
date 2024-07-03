@@ -19,7 +19,7 @@ Sol Puppy ($PUP) is a memecoin inspired by the popularity of dog-themed cryptocu
 ## Tokenomics
 - **Total Supply:** 1,000,000,000 PUP
 - **Distribution:**
-  - 50% Airdropped to early adopters
+  - 50% Airdropped to presale investors
   - 30% Community rewards
   - 10% Liquidity pools
   - 5% Team
